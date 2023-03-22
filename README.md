@@ -35,10 +35,6 @@
   </br>
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/pedro172023/odooapps?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/pedro172023/odooapps?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/pedro172023/odooapps?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/pedro172023/odooapps?color=red&style=plastic)
 
 <br/>
 
