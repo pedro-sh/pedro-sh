@@ -28,7 +28,7 @@
 <h3>My coding stack: </h3>
 <p>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
-  <img alt="Odoo" src="https://alternative.me/media/256/odoo-accounting-icon-45nfh8z7478smwdq-c.png" />
+  <img alt="Odoo" src="https://cdn.iconscout.com/icon/free/png-512/odoo-282678.png?f=avif&w=60" />
   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> 
   <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
   <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
